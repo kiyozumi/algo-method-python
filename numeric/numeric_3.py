@@ -2,7 +2,7 @@
 N = int(input())
 
 if N == 1:
-    print('No')
+    print("No")
     exit()
 
 for x in range(2, N):
